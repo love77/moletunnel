@@ -1,5 +1,3 @@
-#Reference Development Documents
-
 = Reference Development Documents =
 
 Add your content here.
